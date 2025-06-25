@@ -1,20 +1,15 @@
-# EduSync - ทีม Green Team
+# UPChat
 
 ## 👥 Team Members
-- Aey - Product Owner
+- Panupong Panyapoo - Product Owner
 - Bom - Dev Lead
-- Cake - UX Designer
-- Dan - Researcher
+
 
 ## 🎯 Product Vision Statement
-For university students
-who struggle to find study groups,
-**StudyMate**
-is a social-learning mobile app
-that automatically matches students with similar learning goals.
-Unlike Facebook groups,
-our product uses intelligent matching & collaboration tools.
-
-## 🔗 Repository Structure
-- `/docs` – project vision & planning docs
-- `/src` – project source code
+For นิสิตม.พะเยา อาจารย์ม.พะเยา
+who ทำให้เข้าถึงข้อมูล
+the UPChat
+is a Chatbot
+that ข้อมูลต่างๆภายในมหาวิทยาลัยพะเยา
+Unlike เพจ Facebook ของมหาวิทยาลัย หรือ เจ้าหน้าที่โดยตรง
+our product ให้ข้อมูลได้ 24ชม.
