@@ -1,8 +1,8 @@
 # UPChat
 
 ## 👥 Team Members
-- Panupong Panyapoo - Product Owner
-- Bom - Dev Lead
+- Panupong Panyapoo (Owner)
+- Pongpol Maneerat
 
 
 ## 🎯 Product Vision Statement
